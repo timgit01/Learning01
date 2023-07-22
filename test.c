@@ -26,6 +26,7 @@ int main()
                 break;
             case 'n':
                 printf("\nYou can continue with voting.");
+                break;
             default:
                 printf("Invalid input.");
                 break;
