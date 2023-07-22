@@ -57,7 +57,7 @@ int main()
                 }
                 else
                 {
-                    printf("\nVerification key does not match the first letter of your first name.");
+                    printf("\nVerification key does not first letter of your first name.");
                 }
                 break;
             case 'n':
